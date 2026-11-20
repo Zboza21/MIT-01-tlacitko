@@ -1,11 +1,10 @@
-# 04_tlac
+# TLAČÍTKO
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* tlacitko reaguje na hranu
+* při uvolnění tlačítka se přepne svit LED
+
 
 
 ## Schéma zapojení
